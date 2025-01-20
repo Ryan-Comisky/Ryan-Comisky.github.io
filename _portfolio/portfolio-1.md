@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Laser Project (ECE 322)"
+excerpt: "Special project for the transformation of audio to laser input current" #"Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
