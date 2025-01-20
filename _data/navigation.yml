@@ -6,7 +6,7 @@
 
 main:
   - title: "Written Works"
-    url: /Writing/
+    url: /writing/
 
  # - title: "Talks"
  #   url: /talks/    
@@ -22,6 +22,7 @@ main:
 
     - title: "CV"
     url: /CV
+    
   - title: "Resume"
     url: /files/Ryan_Comisky.pdf
     
