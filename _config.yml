@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Ryan Comisky Portfolio"
+title                    : "Ryan Comisky's Portfolio"
 title_separator          : "-"
 name                     : &name "Ryan Comisky"
 description              : &description "I am a self-motivated junior studying integrative engineering and looking for a summer internship to apply my foundation in automation, robotics, mechanical, and electrical engineering.
