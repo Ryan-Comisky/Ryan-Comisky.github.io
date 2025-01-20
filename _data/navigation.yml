@@ -19,8 +19,10 @@ main:
         
  # - title: "Blog Posts"
  #   url: /year-archive/
-    
-  - title: "CV"
+
+    - title: "CV"
+    url: /CV
+  - title: "Resume"
     url: /files/Ryan_Comisky.pdf
     
  # - title: "Guide"
