@@ -23,8 +23,8 @@ main:
     - title: "CV"
     url: /CV
     
-  - title: "Resume"
-    url: /files/Ryan_Comisky.pdf
+#  - title: "Resume"
+ #   url: /files/Ryan_Comisky.pdf
     
  # - title: "Guide"
   #  url: /markdown/
