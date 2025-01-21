@@ -1,6 +1,6 @@
 ---
 title: "Final Project (ES302)"
-excerpt: "Created a service robot abuse detection system and present work at a school conference <br/><img src='/images/500x300.png'>"
+excerpt: "Created a service robot abuse detection system and presented the results at a school conference <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
