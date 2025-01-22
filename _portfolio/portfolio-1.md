@@ -4,4 +4,9 @@ excerpt: "Special project for the transformation of audio to laser input current
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+The goal of this project was to design and test a board to convert an audio input from a microphone to a current output for a laser to trasmit. I served as the lead design and test engineer for the transmitter board.
+
+To decide components Matlab and LT Spice were used. Matlab was used to determine capacitor values then LT spice was used to mock up the circuits then decide on resistor values. Once the board was tested in the simulation, I went on to design the layout. I drew it out on a piece of paper labeling each pin from every component and the power and ground lines. Once that was complete it was time to place and solder each of the components.
+
+
+files/laserboard.png
