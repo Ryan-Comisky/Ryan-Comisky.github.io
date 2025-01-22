@@ -3,9 +3,9 @@ title: "Preventing Abuse Against Service Robots"
 collection: publications
 category: manuscripts
 permalink: 'http://Ryan-Comisky.github.io/files/Preventing Abuse Against Service Robots, Ryan Comisky.pdf'
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+excerpt: 'This paper is about preventing abuse of service robot using novel detection algorithms'
+date: 2024-12-17
+venue: 'Final Project Submission'
 slidesurl: 'http://Ryan-Comisky.github.io/files/Preventing Abuse Against Service Robots, Ryan Comisky.pdf'
 paperurl: 'http://Ryan-Comisky.github.io/files/.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
