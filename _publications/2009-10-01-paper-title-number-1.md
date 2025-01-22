@@ -2,7 +2,7 @@
 title: "Preventing Abuse Against Service Robots"
 collection: publications
 category: manuscripts
-permalink: /publication/Preventing-Abuse-Against Service-Robots 
+permalink: 'http://Ryan-Comisky.github.io/files/Preventing Abuse Against Service Robots, Ryan Comisky.pdf'
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Journal 1'
