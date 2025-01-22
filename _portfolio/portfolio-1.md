@@ -9,4 +9,4 @@ The goal of this project was to design and test a board to convert an audio inpu
 To decide components Matlab and LT Spice were used. Matlab was used to determine capacitor values then LT spice was used to mock up the circuits then decide on resistor values. Once the board was tested in the simulation, I went on to design the layout. I drew it out on a piece of paper labeling each pin from every component and the power and ground lines. Once that was complete it was time to place and solder each of the components.
 
 
-/files/laserboard.png
+url "/files/laserboard.png"
